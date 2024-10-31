@@ -3,6 +3,9 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
   projects:
+    - name: zmk-helpers
+      revision: main
+      path: modules/helpers
     - name: zmk
       remote: zmkfirmware
       revision: main
