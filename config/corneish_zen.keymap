@@ -23,6 +23,7 @@
 #define SUPER2 LA(LC(LSHIFT))
 
 /* urob's timeless Homerow mods */
+#include "zmk-helpers/helper.h"
 #include "zmk-helpers/key-labels/36.h"                                      // key-position labels
 
 #define QUICK_TAP_MS 175
